@@ -1,0 +1,1 @@
+/html/body/app-root/app-side-menu/mat-sidenav-container/mat-sidenav-content/app-process-view-container/div/app-process-pane[2]/div/mat-card/div/div/*[name()='svg']/*[name()='g']/*[name()='g']/*[name()='rect']
